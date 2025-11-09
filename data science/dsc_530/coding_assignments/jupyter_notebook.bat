@@ -1,0 +1,3 @@
+G:
+cd "\Other computers\USB and External Devices\DKIM\python\dsc_530\coding_assignments"
+jupyter notebook
